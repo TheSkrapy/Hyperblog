@@ -4,3 +4,5 @@ y ahora esta modificado
 Esto con el proposito de aprender githubg
 
 y poder trabajar desde una lap y la pc 
+
+con la finalidad de aprender mejor de las tecnologias
