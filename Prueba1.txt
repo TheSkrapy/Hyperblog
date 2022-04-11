@@ -1,8 +1,3 @@
 Este es un archivo de texto 
-y ahora esta modificado 
 
-Esto con el proposito de aprender githubg
-
-y poder trabajar desde una lap y la pc 
-
-con la finalidad de aprender mejor de las tecnologias y mejorar en el campo
+y ahora a sido reiniciado a su estado inicial
