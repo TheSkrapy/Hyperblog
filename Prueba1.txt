@@ -2,3 +2,5 @@ Este es un archivo de texto
 y ahora esta modificado 
 
 Esto con el proposito de aprender githubg
+
+y poder trabajar desde una lap y la pc 
