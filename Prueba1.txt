@@ -1,2 +1,4 @@
 Este es un archivo de texto 
-y ahora esta modificado
+y ahora esta modificado 
+
+Esto con el proposito de aprender githubg
